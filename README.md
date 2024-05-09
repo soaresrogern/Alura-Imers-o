@@ -1,4 +1,4 @@
 # Alura-Imersao
-Imersão Alura Gemini
+Imersão Alura x Google Gemini
 
-Conteúdo postado referente ao conteúdo do curso Imersão IA Alura x Google
+Conteúdo postado referente ao curso Imersão IA Alura x Google
